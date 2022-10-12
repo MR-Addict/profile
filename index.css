@@ -101,7 +101,7 @@ body .main .header {
   padding: 1.5rem;
   color: var(--pri-white);
   background: var(--pri-green);
-  box-shadow: 0.6rem 0.6rem var(--pri-grey);
+  box-shadow: 0.5rem 0.5rem 2.5rem 0.1rem var(--pri-grey);
 }
 
 .main .element h1 {
