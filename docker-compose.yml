@@ -1,0 +1,8 @@
+version: '3'
+services:
+  profile:
+    image: mraddict063/profile
+    container_name: profile
+    restart: unless-stopped
+    ports:
+      - 8088:80
