@@ -1,7 +1,3 @@
-<h1>
-  About me
-  <img src="https://github.com/MR-Addict/profile/actions/workflows/docker.yml/badge.svg?branch=main"/>
-</h1>
+# Profino ![Docker](https://github.com/MR-Addict/profile/actions/workflows/docker.yml/badge.svg?branch=main) ![Netlify](https://api.netlify.com/api/v1/badges/d4f8627a-afb6-4a6a-889e-932b617835ab/deploy-status)
 
-
-This is a simple page about me and my projects.
+Simple `HTML` `CSS` profino.
